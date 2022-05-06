@@ -1,0 +1,55 @@
+.landingPage {
+    margin-top: max(150px, 10%);
+    height: 100vh;
+    width: 100vw;
+}
+
+.landingText {
+    display:flex;
+    width: 65vw;
+    min-width: 600px;
+    margin: auto;
+}
+
+.name {
+    display:flex;
+    width: 65vw;
+    min-width: 600px;
+    margin: auto;
+}
+
+.letter {
+    font-size:60px;
+    margin: 5px;
+    color: #000;
+    transition: all 0.3s
+}
+
+.letter:hover {
+    transform: scale(1.5);
+}
+
+.menu {
+    display:flex;
+    width: 65vw;
+    min-width: 600px;
+    margin:auto;
+}
+
+ul {
+    list-style: none;
+    margin:0;
+    padding:0;
+}
+
+.styled-menu {
+    font: lighter 24px Roboto;
+    text-decoration: none;
+    color: #000;
+    padding: 2px 6px 2px 6px;
+    transition: all 250ms;
+}
+
+.styled-menu:hover {
+    color: #C0D1BC;
+}

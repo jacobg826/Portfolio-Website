@@ -1,0 +1,28 @@
+p {
+    display: flex;
+    margin: auto;
+    width:80vw;
+    min-width: 400px;
+    padding: 20px;
+}
+
+.resumeSection {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.resumeSection > * {
+    margin: 20px;
+}
+
+.resumeIcon {
+    transform: rotate(-25deg);
+    color: #000;
+    transition: all 250ms;
+}
+
+.resumeIcon:hover {
+    transform: rotate(0deg) scale(5.0);
+    color: #636341;
+}

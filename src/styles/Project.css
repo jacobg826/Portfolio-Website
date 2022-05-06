@@ -1,0 +1,76 @@
+.project {
+    width: 400px;
+    max-width: 80vw;
+    height: 300px;
+    margin: 20px;
+    transition: opacity 150ms;
+    background-color: #FBF4E6;
+    text-decoration: none;
+    border-radius: 10px;
+    position: relative;
+    z-index: 1;
+    transition: transform 0.1s ease-in-out;
+}
+
+.project:hover {
+    transform: scale(1.05);
+}
+
+
+.image {
+    display: block;
+    width: 400px;
+    max-width: 80vw;
+    height: 150px;
+    object-fit: cover;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.title {
+    width: 380px;
+    max-width: 75vw;
+    font-family: 'Roboto Condensed', sans-serif;
+    margin: 10px;
+    color: #382C1A;
+    text-align: left;
+    height: fit-content;
+}
+
+.description {
+    width: 380px;
+    max-width: 75vw;
+    margin: 10px;
+    height: fit-content;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight: lighter;
+    color: #382C1A;
+    text-align: left;
+}
+
+.foot-text {
+    color: gray;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.foot {
+    display: flex;
+    align-items: center;
+    width: 400px;
+    max-width: 80vw;
+    margin: 10px;
+    gap: 20px;
+}
+
+.linkIcon {
+    color: gray;
+    text-align: right;
+    transition: color 150ms;
+    justify-content: end;
+    float: right;
+
+}
+
+.linkIcon:hover {
+    color: #1DA1F2
+}

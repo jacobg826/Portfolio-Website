@@ -1,0 +1,49 @@
+
+.projectSection {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, 500px);
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+}
+
+.headerText {
+    text-align: center;
+}
+
+.skillSection {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, 200px);
+    max-width: 1000px;
+    margin: auto; 
+    align-content: center;
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+    gap: 20px;
+}
+
+.skill {
+    display:inline;
+    height: 75px;
+    transition: all .3s ease-in-out;
+}
+
+.skill:hover {
+    margin-top:-10px;
+    margin-bottom: 10px;
+}
+
+.tempSpacing {
+    margin-top: 100px;
+}
+
+.skillText {
+    display: none;
+}
+
+.skillText:hover {
+    display: block;
+    color: red;
+}
