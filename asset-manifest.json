@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/Portfolio-Website/static/css/main.2a82d147.css",
+    "main.js": "/Portfolio-Website/static/js/main.9f38addc.js",
+    "static/media/paccar.JPG": "/Portfolio-Website/static/media/paccar.9c74f77fbfa775bdc4a3.JPG",
+    "static/media/greenNews.JPG": "/Portfolio-Website/static/media/greenNews.e7ba82f56cb7fd7f7e1f.JPG",
+    "static/media/belayhu.JPG": "/Portfolio-Website/static/media/belayhu.b9db5423fc8e457b76c2.JPG",
+    "static/media/etchASketch.JPG": "/Portfolio-Website/static/media/etchASketch.0581e31f098dc126aa1a.JPG",
+    "static/media/Android-Studio-Icon.svg": "/Portfolio-Website/static/media/Android-Studio-Icon.69ccbbbf9700a42bb4e73d4826b991d5.svg",
+    "static/media/ticTacToe.JPG": "/Portfolio-Website/static/media/ticTacToe.1d82940126095adb63b9.JPG",
+    "static/media/weatherApp.JPG": "/Portfolio-Website/static/media/weatherApp.a34f4fc8df72b1d33063.JPG",
+    "static/media/faithlife.JPG": "/Portfolio-Website/static/media/faithlife.1a6bd6845bd51365e2fd.JPG",
+    "static/media/lua.svg": "/Portfolio-Website/static/media/lua.c9f580421c98d5917ca584187e7fa0a0.svg",
+    "static/media/java.svg": "/Portfolio-Website/static/media/java.9e0787f01c4c74ef57862993c7d673b8.svg",
+    "static/media/python.svg": "/Portfolio-Website/static/media/python.1441f7f4f13d9eccafb253719b7bb394.svg",
+    "static/media/c.svg": "/Portfolio-Website/static/media/c.eeab6559c3995680a276958520cd95ca.svg",
+    "static/media/html.svg": "/Portfolio-Website/static/media/html.652a4e50353621070f432603ffdab734.svg",
+    "static/media/kotlin.svg": "/Portfolio-Website/static/media/kotlin.277dfb8ad021df63627e61a40e2e0cb3.svg",
+    "static/media/Git-icon.svg": "/Portfolio-Website/static/media/Git-icon.dd8f1dcaa3e71f534f3f73bb8e6c2d2b.svg",
+    "static/media/javascript.svg": "/Portfolio-Website/static/media/javascript.f719efab5b799ddc35b5055935a3cedd.svg",
+    "static/media/Github-icon.svg": "/Portfolio-Website/static/media/Github-icon.255db585f8a0eb28a1e4deb91bde207d.svg",
+    "index.html": "/Portfolio-Website/index.html",
+    "static/media/css.svg": "/Portfolio-Website/static/media/css.6103e9f2443893be2fa53eef3dd9d1f1.svg",
+    "static/media/React-icon.svg": "/Portfolio-Website/static/media/React-icon.928f956d9c8ebcffb98a8e917154a81a.svg",
+    "main.2a82d147.css.map": "/Portfolio-Website/static/css/main.2a82d147.css.map",
+    "main.9f38addc.js.map": "/Portfolio-Website/static/js/main.9f38addc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a82d147.css",
+    "static/js/main.9f38addc.js"
+  ]
+}
