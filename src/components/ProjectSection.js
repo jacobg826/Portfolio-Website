@@ -12,47 +12,10 @@ import paccarImg from "../images/paccar.JPG";
 import faithlifeImg from "../images/faithlife.JPG";
 import nintyNineSpokesImg from "../images/99Spokes.jpg";
 
-import js from "programming-languages-logos/src/javascript/javascript.svg";
-import css from "programming-languages-logos/src/css/css.svg";
-import html from "programming-languages-logos/src/html/html.svg";
-import kotlin from "programming-languages-logos/src/kotlin/kotlin.svg";
-import c from "programming-languages-logos/src/c/c.svg";
-import java from "programming-languages-logos/src/java/java.svg";
-import python from "programming-languages-logos/src/python/python.svg";
-import lua from "programming-languages-logos/src/lua/lua.svg";
-
-import reactIcon from "../images/React-icon.svg";
-import gitIcon from "../images/Git-icon.svg";
-import GitHubIcon from "../images/Github-icon.svg";
-import androidStudioIcon from "../images/Android-Studio-Icon.svg";
-
 class ProjectSection extends Component {
   render() {
     return (
       <div>
-        {/* Still being worked on. Leave commented out for now. 
-        <h2 className="headerText">
-          Here are some technologies I am skilled in:
-        </h2>
-        <h3 className="headerText">Languages</h3>
-        <div className="skillSection">
-          <img src={js} alt="javascript" className="skill" />
-          <img src={css} alt="css" className="skill" />
-          <img src={html} alt="html" className="skill" />
-          <img src={kotlin} alt="kotlin" className="skill" />
-          <img src={c} alt="c" className="skill" />
-          <img src={java} alt="java" className="skill" />
-          <img src={python} alt="python" className="skill" />
-          <img src={lua} alt="lua" className="skill" />
-        </div>
-        <h3 className="headerText">Other</h3>
-        <div className="skillSection">
-          <img src={reactIcon} alt="react" className="skill" />
-          <img src={gitIcon} alt="git" className="skill" />
-          <img src={GitHubIcon} alt="git" className="skill" />
-          <img src={androidStudioIcon} alt="androidStudio" className="skill" />
-        </div>
-        */}
         <h2 className="textAlignment">Projects and Professional Experience:</h2>
         <div className="projectSection">
           <Project
