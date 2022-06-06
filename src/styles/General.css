@@ -34,3 +34,11 @@ h1, h2, h3 {
     }
 
 }
+
+p, .textAlignment {
+    display: flex;
+    margin: auto;
+    width:80vw;
+    min-width: 400px;
+    padding: 20px;
+}
