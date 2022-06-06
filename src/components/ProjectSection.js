@@ -30,7 +30,6 @@ class ProjectSection extends Component {
   render() {
     return (
       <div>
-        {/* Still being worked on. Leave commented out for now. 
         <h2 className="headerText">
           Here are some technologies I am skilled in:
         </h2>
@@ -52,7 +51,7 @@ class ProjectSection extends Component {
           <img src={GitHubIcon} alt="git" className="skill" />
           <img src={androidStudioIcon} alt="androidStudio" className="skill" />
         </div>
-        */}
+
         <h2 className="textAlignment">Projects and Professional Experience:</h2>
         <div className="projectSection">
           <Project
